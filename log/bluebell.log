@@ -1,0 +1,15 @@
+{"level":"INFO","time":"2023-10-02T15:47:03.337+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-10-02T15:47:47.562+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-10-02T16:18:35.520+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-10-02T16:18:52.673+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-10-02T16:19:21.997+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"ERROR","time":"2023-10-02T17:01:12.283+0800","caller":"controller/user.go:15","msg":"SignUp with invalid params","error":"Key: 'ParamSignUp.RePassword' Error:Field validation for 'RePassword' failed on the 'required' tag"}
+{"level":"ERROR","time":"2023-10-02T17:01:24.760+0800","caller":"controller/user.go:15","msg":"SignUp with invalid params","error":"Key: 'ParamSignUp.RePassword' Error:Field validation for 'RePassword' failed on the 'required' tag"}
+{"level":"ERROR","time":"2023-10-02T17:01:34.183+0800","caller":"controller/user.go:15","msg":"SignUp with invalid params","error":"invalid character '}' looking for beginning of object key string"}
+{"level":"ERROR","time":"2023-10-02T17:01:41.564+0800","caller":"controller/user.go:15","msg":"SignUp with invalid params","error":"Key: 'ParamSignUp.RePassword' Error:Field validation for 'RePassword' failed on the 'required' tag"}
+{"level":"INFO","time":"2023-10-02T17:03:27.063+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"ERROR","time":"2023-10-02T17:04:06.075+0800","caller":"controller/user.go:45","msg":"login failed","error":"password error"}
+{"level":"INFO","time":"2023-10-08T11:55:13.138+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"ERROR","time":"2023-10-08T11:57:52.926+0800","caller":"controller/user.go:53","msg":"login failed","error":"username or password error"}
+{"level":"ERROR","time":"2023-10-08T12:00:46.044+0800","caller":"controller/user.go:46","msg":"Login with invalid params","error":"EOF"}
+{"level":"INFO","time":"2023-10-11T16:16:08.701+0800","caller":"logger/logger.go:36","msg":"init logger success"}
